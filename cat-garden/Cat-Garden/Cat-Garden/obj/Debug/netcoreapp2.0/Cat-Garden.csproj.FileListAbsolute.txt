@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\bin\Debug\netcoreapp2.0\Cat-Garden.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\bin\Debug\netcoreapp2.0\Cat-Garden.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\bin\Debug\netcoreapp2.0\Cat-Garden.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\bin\Debug\netcoreapp2.0\Cat-Garden.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\bin\Debug\netcoreapp2.0\Cat-Garden.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\obj\Debug\netcoreapp2.0\Cat-Garden.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\obj\Debug\netcoreapp2.0\Cat-Garden.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\obj\Debug\netcoreapp2.0\Cat-Garden.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\obj\Debug\netcoreapp2.0\Cat-Garden.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\obj\Debug\netcoreapp2.0\Cat-Garden.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\cat-garden\Cat-Garden\Cat-Garden\obj\Debug\netcoreapp2.0\Cat-Garden.pdb
