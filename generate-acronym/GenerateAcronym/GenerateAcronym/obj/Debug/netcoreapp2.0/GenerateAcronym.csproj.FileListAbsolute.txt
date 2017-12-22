@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\bin\Debug\netcoreapp2.0\GenerateAcronym.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\bin\Debug\netcoreapp2.0\GenerateAcronym.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\bin\Debug\netcoreapp2.0\GenerateAcronym.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\bin\Debug\netcoreapp2.0\GenerateAcronym.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\bin\Debug\netcoreapp2.0\GenerateAcronym.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\obj\Debug\netcoreapp2.0\GenerateAcronym.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\obj\Debug\netcoreapp2.0\GenerateAcronym.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\obj\Debug\netcoreapp2.0\GenerateAcronym.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\obj\Debug\netcoreapp2.0\GenerateAcronym.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\obj\Debug\netcoreapp2.0\GenerateAcronym.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\generate-acronym\GenerateAcronym\GenerateAcronym\obj\Debug\netcoreapp2.0\GenerateAcronym.pdb
