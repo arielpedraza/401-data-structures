@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\bin\Debug\netcoreapp2.0\NumberOccurance.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\bin\Debug\netcoreapp2.0\NumberOccurance.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\bin\Debug\netcoreapp2.0\NumberOccurance.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\bin\Debug\netcoreapp2.0\NumberOccurance.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\bin\Debug\netcoreapp2.0\NumberOccurance.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\obj\Debug\netcoreapp2.0\NumberOccurance.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\obj\Debug\netcoreapp2.0\NumberOccurance.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\obj\Debug\netcoreapp2.0\NumberOccurance.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\obj\Debug\netcoreapp2.0\NumberOccurance.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\obj\Debug\netcoreapp2.0\NumberOccurance.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\number-occurances\NumberOccurance\NumberOccurance\obj\Debug\netcoreapp2.0\NumberOccurance.pdb
