@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\bin\Debug\netcoreapp2.0\KataFighter.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\bin\Debug\netcoreapp2.0\KataFighter.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\bin\Debug\netcoreapp2.0\KataFighter.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\bin\Debug\netcoreapp2.0\KataFighter.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\obj\Debug\netcoreapp2.0\KataFighter.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\obj\Debug\netcoreapp2.0\KataFighter.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\obj\Debug\netcoreapp2.0\KataFighter.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\obj\Debug\netcoreapp2.0\KataFighter.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\bin\Debug\netcoreapp2.0\KataFighter.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\obj\Debug\netcoreapp2.0\KataFighter.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\KataFighter\obj\Debug\netcoreapp2.0\KataFighter.pdb

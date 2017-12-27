@@ -1,0 +1,16 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\obj\Debug\netcoreapp2.0\XUnitTestFighter.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\obj\Debug\netcoreapp2.0\XUnitTestFighter.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\obj\Debug\netcoreapp2.0\XUnitTestFighter.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\obj\Debug\netcoreapp2.0\XUnitTestFighter.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\XUnitTestFighter.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\XUnitTestFighter.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\XUnitTestFighter.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\XUnitTestFighter.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\XUnitTestFighter.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\KataFighter.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\bin\Debug\netcoreapp2.0\KataFighter.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\obj\Debug\netcoreapp2.0\XUnitTestFighter.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\kata-fighter\KataFighter\XUnitTestFighter\obj\Debug\netcoreapp2.0\XUnitTestFighter.pdb
