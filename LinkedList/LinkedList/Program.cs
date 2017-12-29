@@ -35,12 +35,22 @@ namespace LinkedList
             
             NodeClass N4 = new NodeClass(400);
             LL.AddBefore(N1, N4);
+            Console.WriteLine("Called AddBefore(N1, N4)");
             Console.WriteLine("Head value is: " + LL.Head.Value);
             Console.WriteLine("Second Item Value: " + LL.Head.Next.Value);
             Console.WriteLine("Third Item Value: " + LL.Head.Next.Next.Value);
             Console.WriteLine("Fourth Item Value: " + LL.Head.Next.Next.Next.Value);
             Console.ReadLine();
-            
+
+            NodeClass N5 = new NodeClass(500);
+            LL.AddAfter(N3, N5);
+            Console.WriteLine("Called AddAfter(N3, N5)");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.WriteLine("Second Item Value: " + LL.Head.Next.Value);
+            Console.WriteLine("Third Item Value: " + LL.Head.Next.Next.Value);
+            Console.WriteLine("Fourth Item Value: " + LL.Head.Next.Next.Next.Value);
+            Console.WriteLine("Fifth Item Value: " + LL.Head.Next.Next.Next.Next.Value);
+            Console.ReadLine();
         }
     }
 }
