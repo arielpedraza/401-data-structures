@@ -50,5 +50,16 @@ namespace LinkedList
             newNode.Next = targetNode.Next;
             targetNode.Next = newNode;
         }
+
+        public void Remove(NodeClass targetNode)
+        {
+            NodeClass Current = Head;
+            while(Current.Next != targetNode)
+            {
+                Current = Current.Next;
+            }
+            Current.Next = Current.Next.Next;
+            targetNode.Next = null;
+        }
     }
 }
