@@ -55,6 +55,12 @@ namespace LinkedList
             Console.WriteLine("Third Item Value: " + LL.Head.Next.Next.Value);
             Console.WriteLine("Fourth Item Value: " + LL.Head.Next.Next.Next.Value);
             Console.ReadLine();
+
+            Console.WriteLine("Called GetMiddle()");
+            Console.WriteLine("Middle Node's Value: " + LL.GetMiddle().Value);
+            Console.WriteLine("Called GetMiddleRunner()");
+            Console.WriteLine("Middle Node's Value: " + LL.GetMiddleRunner().Value);
+            Console.ReadLine();
         }
     }
 }

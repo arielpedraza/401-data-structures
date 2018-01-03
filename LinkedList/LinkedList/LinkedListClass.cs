@@ -6,7 +6,8 @@ namespace LinkedList
 {
     public class LinkedListClass
     {
-        public NodeClass Head { get; set; }
+        public NodeClass Head { get; private set; }
+        private int ListSize { get; set; }
 
         public LinkedListClass(NodeClass node)
         {
@@ -17,6 +18,7 @@ namespace LinkedList
         {
             newNode.Next = Head;
             Head = newNode;
+            ListSize++;
         }
 
         public void AddLast(NodeClass newNode)
@@ -27,6 +29,7 @@ namespace LinkedList
                 Current = Current.Next;
             }
             Current.Next = newNode;
+            ListSize++;
         }
 
         public void AddBefore(NodeClass targetNode, NodeClass newNode)
@@ -38,6 +41,7 @@ namespace LinkedList
             }
             newNode.Next = Current.Next;
             Current.Next = newNode;
+            ListSize++;
         }
 
         public void AddAfter(NodeClass targetNode, NodeClass newNode)
@@ -49,6 +53,7 @@ namespace LinkedList
             }
             newNode.Next = targetNode.Next;
             targetNode.Next = newNode;
+            ListSize++;
         }
 
         public void Remove(NodeClass targetNode)
@@ -60,6 +65,36 @@ namespace LinkedList
             }
             Current.Next = Current.Next.Next;
             targetNode.Next = null;
+            ListSize--;
+        }
+
+        public NodeClass GetMiddle()
+        {
+            if (Head == null) return null;
+            int tempCount = 0;
+            if (ListSize % 2 == 1) tempCount = (ListSize + 1) / 2;
+            else tempCount = ListSize / 2;
+
+            NodeClass Current = Head;
+            for(int i = 1; i < tempCount; i++)
+            {
+                Current = Current.Next;
+            }
+            return Current;
+        }
+
+        public NodeClass GetMiddleRunner()
+        {
+            if (Head == null) return null;
+            NodeClass walker = Head;
+            NodeClass runner = Head;
+
+            while(runner.Next.Next != null)
+            {
+                walker = walker.Next;
+                runner = runner.Next.Next;
+            }
+            return walker;
         }
     }
 }
