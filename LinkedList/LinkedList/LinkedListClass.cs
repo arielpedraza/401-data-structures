@@ -12,6 +12,7 @@ namespace LinkedList
         public LinkedListClass(NodeClass node)
         {
             Head = node;
+            ListSize = 1;
         }
 
         public void AddFirst(NodeClass newNode)
@@ -95,6 +96,19 @@ namespace LinkedList
                 runner = runner.Next.Next;
             }
             return walker;
+        }
+
+        public NodeClass GetNodeFromEnd(int nth)
+        {
+            if (nth > ListSize) return null;
+            NodeClass Current = Head;
+            int diff = ListSize - nth;
+            while(diff > 0)
+            {
+                Current = Current.Next;
+                diff--;
+            }
+            return Current;
         }
     }
 }
