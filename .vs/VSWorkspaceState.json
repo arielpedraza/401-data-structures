@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LinkedList",
+    "\\LinkedList\\LinkedList"
   ],
+  "SelectedNode": "\\LinkedList\\LinkedList\\LinkedList.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -61,6 +61,10 @@ namespace LinkedList
             Console.WriteLine("Called GetMiddleRunner()");
             Console.WriteLine("Middle Node's Value: " + LL.GetMiddleRunner().Value);
             Console.ReadLine();
+
+            Console.WriteLine("Called GetNodeFromEnd(2)");
+            Console.WriteLine("Nth Node from the end: " + LL.GetNodeFromEnd(2).Value);
+            Console.ReadLine();
         }
     }
 }
