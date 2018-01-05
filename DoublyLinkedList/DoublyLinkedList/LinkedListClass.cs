@@ -17,31 +17,51 @@ namespace DoublyLinkedList
 
         public void AddFirst(NodeClass newNode)
         {
-            newNode.Next = Head;
-            Head = newNode;
-            Head.Next.Prev = Head;
+            if (Head == null)
+            {
+                Head = newNode;
+            }
+            else
+            {
+                newNode.Next = Head;
+                Head = newNode;
+                Head.Next.Prev = Head;
+            }
             ListSize++;
         }
 
         public void AddLast(NodeClass newNode)
         {
-            NodeClass Current = Head;
-            while(Current.Next != null)
+            if (Head == null)
             {
-                Current = Current.Next;
+                Head = newNode;
             }
-            Current.Next = newNode;
-            Current.Next.Prev = Current;
+            else
+            {
+                NodeClass Current = Head;
+                while (Current.Next != null)
+                {
+                    Current = Current.Next;
+                }
+                Current.Next = newNode;
+                Current.Next.Prev = Current;
+            }
             ListSize++;
         }
 
         public void AddBefore(NodeClass targetNode, NodeClass newNode)
         {
+            if (Head == null) return;
             NodeClass Current = Head;
             while(Current.Next != targetNode)
             {
-                Current = Current.Next;
+                if(Current.Next != null)
+                {
+                    Current = Current.Next;
+                }
+                else { return; }
             }
+
             newNode.Next = Current.Next;
             Current.Next.Prev = newNode;
             Current.Next = newNode;
@@ -51,10 +71,15 @@ namespace DoublyLinkedList
 
         public void AddAfter(NodeClass targetNode, NodeClass newNode)
         {
+            if (Head == null) return;
             NodeClass Current = Head;
             while(Current != targetNode)
             {
-                Current = Current.Next;
+                if(Current.Next != null)
+                {
+                    Current = Current.Next;
+                }
+                else { return; }
             }
             newNode.Next = Current.Next;
             Current.Next.Prev = newNode;
@@ -65,13 +90,32 @@ namespace DoublyLinkedList
 
         public void Remove(NodeClass targetNode)
         {
+            if (Head == null) return;
             NodeClass Current = Head;
             while(Current != targetNode)
             {
-                Current = Current.Next;
+                if (Current.Next != null)
+                {
+                    Current = Current.Next;
+                }
+                else { return; }
             }
-            Current.Prev.Next = Current.Next;
-            Current.Next.Prev = Current.Prev;
+
+            if (ListSize == 1) Head = null;
+            else if (Current.Prev == null)
+            {
+                Head = Current.Next;
+                Current.Next.Prev = null;
+            }
+            else if (Current.Next == null)
+            {
+                Current.Prev.Next = null;
+            }
+            else
+            {
+                Current.Prev.Next = Current.Next;
+                Current.Next.Prev = Current.Prev;
+            }
             Current = null;
             ListSize--;
         }
