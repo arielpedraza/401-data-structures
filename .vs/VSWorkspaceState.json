@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LinkedList",
+    "\\DoublyLinkedList\\DoublyLinkedList",
     "\\LinkedList\\LinkedList"
   ],
-  "SelectedNode": "\\LinkedList\\LinkedList\\LinkedList.csproj",
+  "SelectedNode": "\\DoublyLinkedList",
   "PreviewInSolutionExplorer": false
 }
