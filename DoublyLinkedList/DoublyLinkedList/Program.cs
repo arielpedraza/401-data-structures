@@ -68,6 +68,66 @@ namespace DoublyLinkedList
             Console.WriteLine("Fourth Item Prev Value: " + LL.Head.Next.Next.Next.Prev.Value);
             Console.WriteLine("Fourth Item Value: " + LL.Head.Next.Next.Next.Value);
             Console.ReadLine();
+
+            LL.Remove(N1);
+            Console.WriteLine("Called Remove(N1)");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.WriteLine("Second Item Prev Value: " + LL.Head.Next.Prev.Value);
+            Console.WriteLine("Second Item Value: " + LL.Head.Next.Value);
+            Console.WriteLine("Third Item Prev Value: " + LL.Head.Next.Next.Prev.Value);
+            Console.WriteLine("Third Item Value: " + LL.Head.Next.Next.Value);
+            Console.ReadLine();
+
+            LL.Remove(N5);
+            Console.WriteLine("Called Remove(N5)");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.WriteLine("Second Item Prev Value: " + LL.Head.Next.Prev.Value);
+            Console.WriteLine("Second Item Value: " + LL.Head.Next.Value);
+            Console.ReadLine();
+
+            LL.Remove(N5);
+            Console.WriteLine("Called Remove(N5) (should not do anything)");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.WriteLine("Second Item Prev Value: " + LL.Head.Next.Prev.Value);
+            Console.WriteLine("Second Item Value: " + LL.Head.Next.Value);
+            Console.ReadLine();
+
+            LL.AddAfter(N3, N4);
+            Console.WriteLine("Called AddAfter(N3, N4) (should not do anything)");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.WriteLine("Second Item Prev Value: " + LL.Head.Next.Prev.Value);
+            Console.WriteLine("Second Item Value: " + LL.Head.Next.Value);
+            Console.ReadLine();
+
+            LL.AddBefore(N3, N4);
+            Console.WriteLine("Called AddBefore(N3, N4) (should not do anything)");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.WriteLine("Second Item Prev Value: " + LL.Head.Next.Prev.Value);
+            Console.WriteLine("Second Item Value: " + LL.Head.Next.Value);
+            Console.ReadLine();
+
+            LL.Remove(N2);
+            LL.Remove(N4);
+            Console.WriteLine("Called remove on N2 and N4. Linked List should be empty.");
+            Console.ReadLine();
+
+            LL.Remove(N1);
+            Console.WriteLine("Called remove on N1. Shouldn't have done anything. Linked List should still be empty.");
+            Console.ReadLine();
+
+            LL.AddLast(N5);
+            Console.WriteLine("Called AddLast(N5) on empty linked list.");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.ReadLine();
+
+            LL.Remove(N5);
+            Console.WriteLine("Called remove on N5. Linked List should be empty again.");
+            Console.ReadLine();
+
+            LL.AddFirst(N1);
+            Console.WriteLine("Called AddFirst(N1) on empty linked list.");
+            Console.WriteLine("Head value is: " + LL.Head.Value);
+            Console.ReadLine();
         }
     }
 }
