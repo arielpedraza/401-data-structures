@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp2.0\StackAndQueue.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp2.0\StackAndQueue.pdb
