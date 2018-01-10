@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\bin\Debug\netcoreapp2.0\CatDogQueue.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\bin\Debug\netcoreapp2.0\CatDogQueue.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\bin\Debug\netcoreapp2.0\CatDogQueue.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\bin\Debug\netcoreapp2.0\CatDogQueue.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\bin\Debug\netcoreapp2.0\CatDogQueue.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\obj\Debug\netcoreapp2.0\CatDogQueue.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\obj\Debug\netcoreapp2.0\CatDogQueue.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\obj\Debug\netcoreapp2.0\CatDogQueue.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\obj\Debug\netcoreapp2.0\CatDogQueue.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\obj\Debug\netcoreapp2.0\CatDogQueue.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\CatDogQueue\CatDogQueue\obj\Debug\netcoreapp2.0\CatDogQueue.pdb
