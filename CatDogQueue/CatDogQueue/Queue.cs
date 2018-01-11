@@ -56,18 +56,22 @@ namespace CatDogQueue
                 }
                 else
                 {
-                Head = Head.Prev;
-                Head.Next = null;
+                    Head = Head.Prev;
+                    Head.Next = null;
                 }
             }
             else
             {
-                string n = Head.Value;
-                n = Head.Value;
-                Enqueue(n);
-                Head = Head.Prev;
-                Head.Next = null;
-                DequeueCat();
+                Node temp = Tail;
+                string n = "";
+                while (temp != Head)
+                {
+                    Console.WriteLine("Inside while loop, temp is " + temp.Value);
+                    n = Head.Value;
+                    Enqueue(n);
+                    Head = Head.Prev;
+                    Head.Next = null;
+                }
             }
             Length--;
         }
@@ -89,12 +93,22 @@ namespace CatDogQueue
             }
             else
             {
-                string n = Head.Value;
+                Node temp = Tail;
+                string n = "";
+                while (Tail != Head)
+                {
+                    Console.WriteLine("Inside while loop, temp is " + temp.Value);
+                    n = Head.Value;
+                    Enqueue(n);
+                    Head = Head.Prev;
+                    Head.Next = null;
+                }
+                /*string n = Head.Value;
                 n = Head.Value;
                 Enqueue(n);
                 Head = Head.Prev;
                 Head.Next = null;
-                DequeueDog();
+                DequeueDog();*/
             }
             Length--;
         }

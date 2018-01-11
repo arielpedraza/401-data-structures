@@ -13,7 +13,7 @@ namespace StackAndQueue
             Head = new Node(n);
         }
 
-        public void Enqueue(int n)
+        public void Push(int n)
         {
             Node node = new Node(n);
             if (Head == null)
@@ -27,7 +27,7 @@ namespace StackAndQueue
             }
         }
 
-        public void Dequeue() => Head = Head?.Next;
+        public void Pop() => Head = Head?.Next;
 
         public int Peek() => Head.Value;
     }

@@ -10,10 +10,10 @@ namespace StackAndQueue
             Console.WriteLine("Creating new stack with one node value of 5");
             Stack myStack = new Stack(5);
             Console.WriteLine("Pushing node of value 10 onto stack");
-            myStack.Enqueue(10);
+            myStack.Push(10);
             Console.WriteLine("Calling Peek(): " + myStack.Peek());
             Console.WriteLine("Calling Pop()");
-            myStack.Dequeue();
+            myStack.Pop();
             Console.WriteLine("Calling Peek(): " + myStack.Peek());
 
             Console.WriteLine("\nTesting Queues!\n");
