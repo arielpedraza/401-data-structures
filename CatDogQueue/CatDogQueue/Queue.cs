@@ -8,13 +8,11 @@ namespace CatDogQueue
     {
         public Node Head { get; private set; }
         public Node Tail { get; private set; }
-        internal int Length { get; set; }
 
         public Queue(string n)
         {
             Head = new Node(n);
             Tail = Head;
-            Length = 1;
         }
 
         public void Enqueue(string n)
@@ -36,18 +34,28 @@ namespace CatDogQueue
                 Tail.Prev = node;
                 Tail = node;
             }
-            Length++;
         }
 
-        public void DequeueAny()
+        public Node DequeueAny()
         {
-            if (Head.Value == "cat") DequeueCat();
-            else DequeueDog();
+            if (Head.Value == "cat") return DequeueCat();
+            else return DequeueDog();
         }
 
-        public void DequeueCat()
+        public Node DequeueCat()
         {
-            if (Head.Value == "cat")
+            return Dequeue("cat");
+        }
+
+        public Node DequeueDog()
+        {
+            return Dequeue("dog");
+        }
+
+        private Node Dequeue(string s)
+        {
+            Node temp = Head;
+            if (Head.Value == s)
             {
                 if (Head == Tail)
                 {
@@ -62,55 +70,26 @@ namespace CatDogQueue
             }
             else
             {
-                Node temp = Tail;
+                Node tail = Tail;
                 string n = "";
-                while (temp != Head)
+                bool notFound = true;
+                while (tail != Head)
                 {
-                    Console.WriteLine("Inside while loop, temp is " + temp.Value);
-                    n = Head.Value;
-                    Enqueue(n);
+                    if (notFound && Head.Value == s)
+                    {
+                        notFound = false;
+                        temp = Head;
+                    }
+                    else
+                    {
+                        n = Head.Value;
+                        Enqueue(n);
+                    }
                     Head = Head.Prev;
                     Head.Next = null;
                 }
             }
-            Length--;
-        }
-
-        public void DequeueDog()
-        {
-            if (Head.Value == "dog")
-            {
-                if (Head == Tail)
-                {
-                    Head = null;
-                    Tail = null;
-                }
-                else
-                {
-                    Head = Head.Prev;
-                    Head.Next = null;
-                }
-            }
-            else
-            {
-                Node temp = Tail;
-                string n = "";
-                while (Tail != Head)
-                {
-                    Console.WriteLine("Inside while loop, temp is " + temp.Value);
-                    n = Head.Value;
-                    Enqueue(n);
-                    Head = Head.Prev;
-                    Head.Next = null;
-                }
-                /*string n = Head.Value;
-                n = Head.Value;
-                Enqueue(n);
-                Head = Head.Prev;
-                Head.Next = null;
-                DequeueDog();*/
-            }
-            Length--;
+            return temp;
         }
 
         public string Peek() => Head.Value;
