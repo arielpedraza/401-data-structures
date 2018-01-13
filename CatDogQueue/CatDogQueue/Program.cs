@@ -18,12 +18,16 @@ namespace CatDogQueue
             myQueue.DequeueAny();
             Console.WriteLine("Calling Peek(): " + myQueue.Peek());
 
-            Console.WriteLine("Enqueuing node of value cat into queue");
-            myQueue.Enqueue("cat");
+            Console.WriteLine("Enqueuing node of value dog into queue");
+            myQueue.Enqueue("dog");
             Console.WriteLine("Calling Peek(): " + myQueue.Peek());
 
             Console.WriteLine("Enqueuing node of value cat into queue");
             myQueue.Enqueue("cat");
+            Console.WriteLine("Calling Peek(): " + myQueue.Peek());
+
+            Console.WriteLine("Enqueuing node of value dog into queue");
+            myQueue.Enqueue("dog");
             Console.WriteLine("Calling Peek(): " + myQueue.Peek());
 
             Console.WriteLine("Enqueuing node of value dog into queue");
