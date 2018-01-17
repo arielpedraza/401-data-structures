@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\bin\Debug\netcoreapp2.0\Tree2.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\bin\Debug\netcoreapp2.0\Tree2.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\bin\Debug\netcoreapp2.0\Tree2.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\bin\Debug\netcoreapp2.0\Tree2.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\bin\Debug\netcoreapp2.0\Tree2.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\obj\Debug\netcoreapp2.0\Tree2.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\obj\Debug\netcoreapp2.0\Tree2.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\obj\Debug\netcoreapp2.0\Tree2.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\obj\Debug\netcoreapp2.0\Tree2.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\obj\Debug\netcoreapp2.0\Tree2.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree2\Tree2\obj\Debug\netcoreapp2.0\Tree2.pdb
