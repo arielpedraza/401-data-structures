@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\bin\Debug\netcoreapp2.0\TreeAnimalGuess.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\bin\Debug\netcoreapp2.0\TreeAnimalGuess.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\bin\Debug\netcoreapp2.0\TreeAnimalGuess.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\bin\Debug\netcoreapp2.0\TreeAnimalGuess.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\bin\Debug\netcoreapp2.0\TreeAnimalGuess.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\obj\Debug\netcoreapp2.0\TreeAnimalGuess.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\obj\Debug\netcoreapp2.0\TreeAnimalGuess.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\obj\Debug\netcoreapp2.0\TreeAnimalGuess.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\obj\Debug\netcoreapp2.0\TreeAnimalGuess.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\obj\Debug\netcoreapp2.0\TreeAnimalGuess.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\Tree-AnimalGuess\Tree-AnimalGuess\obj\Debug\netcoreapp2.0\TreeAnimalGuess.pdb
