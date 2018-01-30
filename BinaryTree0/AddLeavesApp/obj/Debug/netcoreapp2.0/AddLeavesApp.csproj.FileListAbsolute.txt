@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\bin\Debug\netcoreapp2.0\AddLeavesApp.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\bin\Debug\netcoreapp2.0\AddLeavesApp.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\bin\Debug\netcoreapp2.0\AddLeavesApp.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\bin\Debug\netcoreapp2.0\AddLeavesApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\bin\Debug\netcoreapp2.0\AddLeavesApp.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\obj\Debug\netcoreapp2.0\AddLeavesApp.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\obj\Debug\netcoreapp2.0\AddLeavesApp.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\obj\Debug\netcoreapp2.0\AddLeavesApp.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\obj\Debug\netcoreapp2.0\AddLeavesApp.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\obj\Debug\netcoreapp2.0\AddLeavesApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree0\AddLeavesApp\obj\Debug\netcoreapp2.0\AddLeavesApp.pdb
