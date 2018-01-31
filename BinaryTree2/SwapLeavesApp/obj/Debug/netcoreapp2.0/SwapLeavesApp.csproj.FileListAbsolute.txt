@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\bin\Debug\netcoreapp2.0\SwapLeavesApp.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\bin\Debug\netcoreapp2.0\SwapLeavesApp.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\bin\Debug\netcoreapp2.0\SwapLeavesApp.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\bin\Debug\netcoreapp2.0\SwapLeavesApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\bin\Debug\netcoreapp2.0\SwapLeavesApp.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\obj\Debug\netcoreapp2.0\SwapLeavesApp.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\obj\Debug\netcoreapp2.0\SwapLeavesApp.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\obj\Debug\netcoreapp2.0\SwapLeavesApp.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\obj\Debug\netcoreapp2.0\SwapLeavesApp.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\obj\Debug\netcoreapp2.0\SwapLeavesApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree2\SwapLeavesApp\obj\Debug\netcoreapp2.0\SwapLeavesApp.pdb
