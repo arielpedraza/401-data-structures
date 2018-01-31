@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapLeavesApp", "SwapLeavesApp\SwapLeavesApp.csproj", "{95135DDD-E0E7-423A-83EE-361DCE5434C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95135DDD-E0E7-423A-83EE-361DCE5434C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95135DDD-E0E7-423A-83EE-361DCE5434C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95135DDD-E0E7-423A-83EE-361DCE5434C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95135DDD-E0E7-423A-83EE-361DCE5434C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {831C38CC-C74B-4A48-8955-8D02DA9FDB75}
+	EndGlobalSection
+EndGlobal
