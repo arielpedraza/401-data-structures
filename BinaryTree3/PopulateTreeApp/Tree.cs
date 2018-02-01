@@ -39,14 +39,46 @@ namespace PopulateTreeApp
             }
         }
 
-        //public void CreateBST(int[] sortedArray)
-        //{
-        //    myQueue = new Queue<Node>();
-        //    int Mid = (int)Math.Floor((decimal)(sortedArray.Length/2));
-        //    myQueue.Enqueue(new Node(sortedArray[Mid]));
-        //    CreateBST();
-        //    CreateBST();
-        //}
+        public void CreateBST(int[] sortedArray)
+        {
+            int mid = sortedArray.Length/2;
+            Root = new Node(sortedArray[mid]);
+
+            for(int i=0; i < sortedArray.Length; i++)
+            {
+                if (i == mid) continue;
+                Current = Root;
+                AddBSTNode(sortedArray, i);
+            }
+        }
+
+        private void AddBSTNode(int[] sortedArray, int index)
+        {
+            if (sortedArray[index] < Current.Value)
+            {
+                if (Current.Left == null)
+                {
+                    Current.Left = new Node(sortedArray[index]);
+                }
+                else
+                {
+                    Current = Current.Left;
+                    AddBSTNode(sortedArray, index);
+                }
+            }
+            else // sortedArray[index] > Root.Value
+            {
+                if (Current.Right == null)
+                {
+                    Current.Right = new Node(sortedArray[index]);
+                }
+                else
+                {
+                    Current = Current.Right;
+                    AddBSTNode(sortedArray, index);
+                }
+            }
+        }
 
         public void PrintTree()
         {
