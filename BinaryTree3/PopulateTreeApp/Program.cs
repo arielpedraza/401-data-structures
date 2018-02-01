@@ -15,10 +15,10 @@ namespace PopulateTreeApp
             myTree1.CreateBT(intArray);
             myTree1.PrintTree();
 
-            //Console.WriteLine("\nCreating Binary Search Tree:");
-            //Tree myTree2 = new Tree();
-            //myTree2.CreateBST(intArray);
-            //myTree2.PrintTree();
+            Console.WriteLine("\nCreating Binary Search Tree:");
+            Tree myTree2 = new Tree();
+            myTree2.CreateBST(intArray);
+            myTree2.PrintTree();
 
             Console.ReadLine();
         }
