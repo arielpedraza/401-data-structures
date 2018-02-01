@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\bin\Debug\netcoreapp2.0\PopulateTreeApp.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\bin\Debug\netcoreapp2.0\PopulateTreeApp.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\bin\Debug\netcoreapp2.0\PopulateTreeApp.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\bin\Debug\netcoreapp2.0\PopulateTreeApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\bin\Debug\netcoreapp2.0\PopulateTreeApp.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\obj\Debug\netcoreapp2.0\PopulateTreeApp.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\obj\Debug\netcoreapp2.0\PopulateTreeApp.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\obj\Debug\netcoreapp2.0\PopulateTreeApp.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\obj\Debug\netcoreapp2.0\PopulateTreeApp.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\obj\Debug\netcoreapp2.0\PopulateTreeApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree3\PopulateTreeApp\obj\Debug\netcoreapp2.0\PopulateTreeApp.pdb
