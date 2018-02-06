@@ -80,6 +80,104 @@ namespace DeleteNodeChallenge
             }
         }
 
+        public void DeleteNode(int target)
+        {
+            Current = Root;
+            Node temp;
+
+            if (Current.Value == target)
+            {
+                if (Current.Right != null)
+                {
+                    temp = Current.Left;
+                    Current = Current.Right;
+                }
+                else if (Current.Left != null)
+                {
+                    Current.Right = Current.Right.Left;
+                }
+                else
+                {
+                    Current.Right = null;
+                }
+            }
+            else if (Current.Left.Value == target)
+            {
+                if (Current.Left.Right != null)
+                {
+                    Current.Left = Current.Left.Right;
+                }
+                else if (Current.Left.Left != null)
+                {
+                    Current.Left = Current.Left.Left;
+                }
+                else
+                {
+                    Current.Left = null;
+                }
+            }
+            else
+            {
+                if (target > Current.Value)
+                {
+                    Current = Current.Right;
+                    DeleteHelper(target);
+                }
+                else
+                {
+                    Current = Current.Left;
+                    DeleteHelper(target);
+                }
+            }
+        }
+
+        private void DeleteHelper(int target)
+        {
+            if (Current.Right.Value == target)
+            {
+                if (Current.Right.Right != null)
+                {
+                    Current.Right = Current.Right.Right;
+                }
+                else if (Current.Right.Left != null)
+                {
+                    Current.Right = Current.Right.Left;
+                }
+                else
+                {
+                    Current.Right = null;
+                }
+            }
+            else if (Current.Left.Value == target)
+            {
+                if (Current.Left.Right != null)
+                {
+                    Current.Left = Current.Left.Right;
+                }
+                else if (Current.Left.Left != null)
+                {
+                    Current.Left = Current.Left.Left;
+                }
+                else
+                {
+                    Current.Left = null;
+                }
+            }
+            else
+            {
+                if (target > Current.Value)
+                {
+                    Current = Current.Right;
+                    DeleteHelper(target);
+                }
+                else
+                {
+                    Current = Current.Left;
+                    DeleteHelper(target);
+                }
+            }
+        }
+
         public void PrintTree()
         {
             PreOrder(Root);
