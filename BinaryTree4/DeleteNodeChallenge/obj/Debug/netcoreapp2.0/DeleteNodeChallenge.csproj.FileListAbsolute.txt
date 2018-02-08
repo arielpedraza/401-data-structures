@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\bin\Debug\netcoreapp2.0\DeleteNodeChallenge.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\bin\Debug\netcoreapp2.0\DeleteNodeChallenge.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\bin\Debug\netcoreapp2.0\DeleteNodeChallenge.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\bin\Debug\netcoreapp2.0\DeleteNodeChallenge.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\bin\Debug\netcoreapp2.0\DeleteNodeChallenge.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\obj\Debug\netcoreapp2.0\DeleteNodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\obj\Debug\netcoreapp2.0\DeleteNodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\obj\Debug\netcoreapp2.0\DeleteNodeChallenge.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\obj\Debug\netcoreapp2.0\DeleteNodeChallenge.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\obj\Debug\netcoreapp2.0\DeleteNodeChallenge.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree4\DeleteNodeChallenge\obj\Debug\netcoreapp2.0\DeleteNodeChallenge.pdb
