@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\bin\Debug\netcoreapp2.0\FindWeightChallenge.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\bin\Debug\netcoreapp2.0\FindWeightChallenge.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\bin\Debug\netcoreapp2.0\FindWeightChallenge.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\bin\Debug\netcoreapp2.0\FindWeightChallenge.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\bin\Debug\netcoreapp2.0\FindWeightChallenge.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\obj\Debug\netcoreapp2.0\FindWeightChallenge.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\obj\Debug\netcoreapp2.0\FindWeightChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\obj\Debug\netcoreapp2.0\FindWeightChallenge.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\obj\Debug\netcoreapp2.0\FindWeightChallenge.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\obj\Debug\netcoreapp2.0\FindWeightChallenge.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\BinaryTree5\FindWeightChallenge\obj\Debug\netcoreapp2.0\FindWeightChallenge.pdb

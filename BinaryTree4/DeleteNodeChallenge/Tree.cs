@@ -102,7 +102,33 @@ namespace DeleteNodeChallenge
                 }
             }
 
-            DeleteHelper();
+            if(Parent == Current)
+            {
+                if (Root.Left == null)
+                {
+                    Root = Root.Right;
+                }
+                else if (Root.Right == null)
+                {
+                    Root = Root.Left;
+                }
+                else
+                {
+                    Current = Root.Left;
+                    DeleteHelper();
+                }
+            }
+            else
+            {
+                if(Current.Value == target)
+                {
+                    Parent.Left = Parent.Left.Right;
+                }
+                else
+                {
+                    Parent.Right = Parent.Right.Right;
+                }
+            }
         }
 
         private void DeleteHelper()
@@ -117,7 +143,7 @@ namespace DeleteNodeChallenge
 
             if (Current.Left != null)
             {
-                Current.Left = temp;
+                Current.Right = temp;
             }
         }
 
