@@ -83,98 +83,67 @@ namespace DeleteNodeChallenge
         public void DeleteNode(int target)
         {
             Current = Root;
-            Node temp;
+            Node Parent = Root;
 
-            if (Current.Value == target)
+            while(Current.Value != target)
             {
-                if (Current.Right != null)
+                Parent = Current;
+                if (target > Current.Value && Current.Right != null)
                 {
-                    temp = Current.Left;
                     Current = Current.Right;
                 }
-                else if (Current.Left != null)
+                else if (target < Current.Value && Current.Left != null)
                 {
-                    Current.Right = Current.Right.Left;
+                    Current = Current.Left;
                 }
                 else
                 {
-                    Current.Right = null;
+                    return;
                 }
             }
-            else if (Current.Left.Value == target)
+
+            if(Parent == Current)
             {
-                if (Current.Left.Right != null)
+                if (Root.Left == null)
                 {
-                    Current.Left = Current.Left.Right;
+                    Root = Root.Right;
                 }
-                else if (Current.Left.Left != null)
+                else if (Root.Right == null)
                 {
-                    Current.Left = Current.Left.Left;
+                    Root = Root.Left;
                 }
                 else
                 {
-                    Current.Left = null;
+                    Current = Root.Left;
+                    DeleteHelper();
                 }
             }
             else
             {
-                if (target > Current.Value)
+                if(Current.Value == target)
                 {
-                    Current = Current.Right;
-                    DeleteHelper(target);
+                    Parent.Left = Parent.Left.Right;
                 }
                 else
                 {
-                    Current = Current.Left;
-                    DeleteHelper(target);
+                    Parent.Right = Parent.Right.Right;
                 }
             }
         }
 
-        private void DeleteHelper(int target)
+        private void DeleteHelper()
         {
-            if (Current.Right.Value == target)
+            Node temp = Current.Left;
+
+            if (Current.Right != null && Current.Left != null)
             {
-                if (Current.Right.Right != null)
-                {
-                    Current.Right = Current.Right.Right;
-                }
-                else if (Current.Right.Left != null)
-                {
-                    Current.Right = Current.Right.Left;
-                }
-                else
-                {
-                    Current.Right = null;
-                }
+                Current = Current.Right;
+                DeleteHelper();
             }
-            else if (Current.Left.Value == target)
+
+            if (Current.Left != null)
             {
-                if (Current.Left.Right != null)
-                {
-                    Current.Left = Current.Left.Right;
-                }
-                else if (Current.Left.Left != null)
-                {
-                    Current.Left = Current.Left.Left;
-                }
-                else
-                {
-                    Current.Left = null;
-                }
-            }
-            else
-            {
-                if (target > Current.Value)
-                {
-                    Current = Current.Right;
-                    DeleteHelper(target);
-                }
-                else
-                {
-                    Current = Current.Left;
-                    DeleteHelper(target);
-                }
+                Current.Right = temp;
             }
         }
 
