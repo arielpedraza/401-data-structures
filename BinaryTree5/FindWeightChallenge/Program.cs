@@ -15,7 +15,9 @@ namespace FindWeightChallenge
             myTree.CreateBST(intArray);
             myTree.PrintTree();
 
-            
+            Console.WriteLine("Does weight 7 exist?: " + myTree.FindWeight(7));
+            Console.WriteLine("Does weight 10 exist?: " + myTree.FindWeight(10));
+            Console.WriteLine("Does weight 22 exist?: " + myTree.FindWeight(22));
 
             Console.ReadLine();
         }

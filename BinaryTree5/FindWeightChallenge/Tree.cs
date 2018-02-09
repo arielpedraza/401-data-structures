@@ -80,6 +80,29 @@ namespace FindWeightChallenge
             }
         }
 
+        public bool FindWeight(int target)
+        {
+            return CheckWeight(Root, Root.Value, target);
+        }
+
+        private bool CheckWeight(Node current, int total, int target)
+        {
+            if (current.Left != null)
+            {
+                if (CheckWeight(current.Left, total + current.Left.Value, target)) return true;
+            }
+            if (current.Right != null)
+            {
+                if (CheckWeight(current.Right, total + current.Right.Value, target)) return true;
+                else return false;
+            }
+            else
+            {
+                if (total == target) return true;
+                else return false;
+            }
+        }
+
         public void PrintTree()
         {
             PreOrder(Root);
