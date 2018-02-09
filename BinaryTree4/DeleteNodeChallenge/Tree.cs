@@ -83,50 +83,19 @@ namespace DeleteNodeChallenge
         public void DeleteNode(int target)
         {
             Current = Root;
-            Node Parent = Root;
-
-            while(Current.Value != target)
+            if (Current.Value == target)
             {
-                Parent = Current;
-                if (target > Current.Value && Current.Right != null)
+                if (Current.Left == null && Current.Right == null)
                 {
-                    Current = Current.Right;
+                    // 
                 }
-                else if (target < Current.Value && Current.Left != null)
+                else if (Current.Left == null || Current.Right == null)
                 {
-                    Current = Current.Left;
+                    // 
                 }
-                else
+                else // both children exist
                 {
-                    return;
-                }
-            }
-
-            if(Parent == Current)
-            {
-                if (Root.Left == null)
-                {
-                    Root = Root.Right;
-                }
-                else if (Root.Right == null)
-                {
-                    Root = Root.Left;
-                }
-                else
-                {
-                    Current = Root.Left;
-                    DeleteHelper();
-                }
-            }
-            else
-            {
-                if(Current.Value == target)
-                {
-                    Parent.Left = Parent.Left.Right;
-                }
-                else
-                {
-                    Parent.Right = Parent.Right.Right;
+                    // 
                 }
             }
         }
