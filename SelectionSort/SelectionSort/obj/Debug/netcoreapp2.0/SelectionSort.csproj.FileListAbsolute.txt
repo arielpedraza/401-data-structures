@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\bin\Debug\netcoreapp2.0\SelectionSort.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\SelectionSort\SelectionSort\obj\Debug\netcoreapp2.0\SelectionSort.pdb
