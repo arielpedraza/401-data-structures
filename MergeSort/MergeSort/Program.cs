@@ -24,7 +24,7 @@ namespace MergeSort
 
         static void MergeSort(int[] array, int low, int high)
         {
-            if (array.Length < 2) return;
+            if (high-low < 1) return;
             int p = (low + high) / 2;
             MergeSort(array, low, p);
             MergeSort(array, p + 1, high);
@@ -54,7 +54,7 @@ namespace MergeSort
 
             if(i > midleft)
             {
-                for(int x = j; j <= right; x++)
+                for(int x = j; x <= right; x++)
                 {
                     tempArr[k] = array[x];
                     k++;
@@ -62,7 +62,7 @@ namespace MergeSort
             }
             else
             {
-                for (int y = i; i <= midleft; y++)
+                for (int y = i; y <= midleft; y++)
                 {
                     tempArr[k] = array[y];
                     k++;
