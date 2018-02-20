@@ -23,7 +23,7 @@ namespace HeapSort
             {
                 Print(array);
                 Swap(array, 0, i);
-                Heapify(array, 0);
+                Heapify(array, 0, i);
                 Console.WriteLine("");
             }
         }
@@ -32,21 +32,21 @@ namespace HeapSort
         {
             for (int i = (array.Length-2)/2; i >= 0; i--)
             {
-                Heapify(array, i);
+                Heapify(array, i, array.Length);
             }
         }
 
-        static void Heapify(int[] array, int i)
+        static void Heapify(int[] array, int i, int length)
         {
             int left = i * 2 + 1;
             int right = i * 2 + 2;
             int max = i;
 
-            if (left < array.Length && array[left] > array[i])
+            if (left < length && array[left] > array[i])
             {
                 max = left;
             }
-            if (right < array.Length && array[right] > array[max])
+            if (right < length && array[right] > array[max])
             {
                 max = right;
             }
@@ -54,7 +54,7 @@ namespace HeapSort
             if (max != i)
             {
                 Swap(array, i, max);
-                Heapify(array, max);
+                Heapify(array, max, length);
             }
         }
 
