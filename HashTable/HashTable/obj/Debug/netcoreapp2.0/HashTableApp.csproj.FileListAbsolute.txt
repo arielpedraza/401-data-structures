@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\bin\Debug\netcoreapp2.0\HashTableApp.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\bin\Debug\netcoreapp2.0\HashTableApp.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\bin\Debug\netcoreapp2.0\HashTableApp.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\bin\Debug\netcoreapp2.0\HashTableApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\bin\Debug\netcoreapp2.0\HashTableApp.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\obj\Debug\netcoreapp2.0\HashTableApp.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\obj\Debug\netcoreapp2.0\HashTableApp.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\obj\Debug\netcoreapp2.0\HashTableApp.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\obj\Debug\netcoreapp2.0\HashTableApp.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\obj\Debug\netcoreapp2.0\HashTableApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\HashTable\HashTable\obj\Debug\netcoreapp2.0\HashTableApp.pdb
