@@ -674,9 +674,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedra\\Documents\\codefellows\\401\\data-structures\\HashTable\\HashTable\\HashTable.csproj",
-      "projectName": "HashTable",
-      "projectPath": "C:\\Users\\pedra\\Documents\\codefellows\\401\\data-structures\\HashTable\\HashTable\\HashTable.csproj",
+      "projectUniqueName": "C:\\Users\\pedra\\Documents\\codefellows\\401\\data-structures\\HashTable\\HashTable\\HashTableApp.csproj",
+      "projectName": "HashTableApp",
+      "projectPath": "C:\\Users\\pedra\\Documents\\codefellows\\401\\data-structures\\HashTable\\HashTable\\HashTableApp.csproj",
       "packagesPath": "C:\\Users\\pedra\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pedra\\Documents\\codefellows\\401\\data-structures\\HashTable\\HashTable\\obj\\",
       "projectStyle": "PackageReference",
