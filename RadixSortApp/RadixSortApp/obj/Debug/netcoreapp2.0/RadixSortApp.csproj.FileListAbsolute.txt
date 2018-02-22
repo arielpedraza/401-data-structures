@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\bin\Debug\netcoreapp2.0\RadixSortApp.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\bin\Debug\netcoreapp2.0\RadixSortApp.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\bin\Debug\netcoreapp2.0\RadixSortApp.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\bin\Debug\netcoreapp2.0\RadixSortApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\bin\Debug\netcoreapp2.0\RadixSortApp.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\obj\Debug\netcoreapp2.0\RadixSortApp.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\obj\Debug\netcoreapp2.0\RadixSortApp.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\obj\Debug\netcoreapp2.0\RadixSortApp.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\obj\Debug\netcoreapp2.0\RadixSortApp.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\obj\Debug\netcoreapp2.0\RadixSortApp.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\RadixSortApp\RadixSortApp\obj\Debug\netcoreapp2.0\RadixSortApp.pdb
