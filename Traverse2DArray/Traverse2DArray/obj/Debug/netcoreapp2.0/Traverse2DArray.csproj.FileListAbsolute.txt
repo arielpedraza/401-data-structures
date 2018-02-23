@@ -1,0 +1,11 @@
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\bin\Debug\netcoreapp2.0\Traverse2DArray.deps.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\bin\Debug\netcoreapp2.0\Traverse2DArray.runtimeconfig.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\bin\Debug\netcoreapp2.0\Traverse2DArray.runtimeconfig.dev.json
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\bin\Debug\netcoreapp2.0\Traverse2DArray.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\bin\Debug\netcoreapp2.0\Traverse2DArray.pdb
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\obj\Debug\netcoreapp2.0\Traverse2DArray.csprojResolveAssemblyReference.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\obj\Debug\netcoreapp2.0\Traverse2DArray.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\obj\Debug\netcoreapp2.0\Traverse2DArray.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\obj\Debug\netcoreapp2.0\Traverse2DArray.AssemblyInfo.cs
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\obj\Debug\netcoreapp2.0\Traverse2DArray.dll
+C:\Users\pedra\Documents\codefellows\401\data-structures\Traverse2DArray\Traverse2DArray\obj\Debug\netcoreapp2.0\Traverse2DArray.pdb
